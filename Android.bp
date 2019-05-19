@@ -1,4 +1,4 @@
-hidl_package_root {
+hidl_package_root_1 {
     name: "vendor.lineage",
     path: "hardware/lineage/interfaces",
 }
